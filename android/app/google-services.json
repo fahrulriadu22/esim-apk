@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725328966175",
+    "project_id": "koperasi-ksmi",
+    "storage_bucket": "koperasi-ksmi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725328966175:android:8f038bbb897f3ddacf5b2a",
+        "android_client_info": {
+          "package_name": "com.example.esim_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9TCBqJtLT_QZIcl7GJV6dVMwTQbQ5unE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

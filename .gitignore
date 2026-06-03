@@ -1,0 +1,9 @@
+.dart_tool/
+.packages
+.pub/
+build/
+*.lock
+*.iml
+.gradle/
+local.properties
+.dart_tool/
